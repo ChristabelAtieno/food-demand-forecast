@@ -1,4 +1,4 @@
-# Food Demand Forecasting Using Prophet
+# Food Demand Forecasting
 
 ## Project Overview
 This project focuses on forecasting weekly demand for retail products, with a particular focus on the **foods category**. Using historical sales data, seasonal trends, and events such as holidays or promotions, the project employs **time series analysis with Prophet** to predict future demand. The goal is to enable data-driven inventory management, reduce stockouts, and optimize supply chain planning.
@@ -19,7 +19,7 @@ The project uses three datasets:
    - Contains the selling price of products over time.   
 
 3. **Calendar Data**  
-   - Contains date-related information including events, holidays, and promotions.  
+   - Contains date-related information including events and holidays.  
 
 
 ## Methodology
